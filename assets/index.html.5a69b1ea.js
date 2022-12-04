@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-d5e0af86","path":"/tags/ssti/","title":"ssti | Tags","lang":"en-US","frontmatter":{"title":"ssti | Tags","layout":"Tags","blog":{"type":"category","name":"ssti","key":"tag"}},"excerpt":"","headers":[],"git":{},"filePathRelative":null}');export{t as data};
